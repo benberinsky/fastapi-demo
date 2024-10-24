@@ -22,3 +22,5 @@ def zone_apex():
     return {"What's up": "What's up API", "album_endpoint":"/albums","static_endpoint":"/static"}
     return {"How are you doing": "I am well", "album_endpoint":"/albums","static_endpoint":"/static"}
     return {"Hey there boss": "Hey there API", "album_endpoint":"/albums","static_endpoint":"/static"}
+    return {"I hope you're happy": "I am!", "album_endpoint":"/albums","static_endpoint":"/static"}
+
